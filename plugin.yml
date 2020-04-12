@@ -1,0 +1,8 @@
+name: BasicCommand
+version: 1.0
+main: io.github.Nirhjah.BasicCommand.Main
+description: Basic command
+ 
+commands:
+    towel:
+        usage: /<command>
